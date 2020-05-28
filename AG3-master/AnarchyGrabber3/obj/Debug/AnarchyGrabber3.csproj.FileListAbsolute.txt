@@ -1,0 +1,9 @@
+C:\Users\edhbu\source\repos\AnarchyGrabber3\AnarchyGrabber3\obj\Debug\AnarchyGrabber3.csprojAssemblyReference.cache
+C:\Users\edhbu\source\repos\AnarchyGrabber3\AnarchyGrabber3\obj\Debug\AnarchyGrabber3.csproj.GenerateResource.cache
+C:\Users\edhbu\source\repos\AnarchyGrabber3\AnarchyGrabber3\obj\Debug\AnarchyGrabber3.csproj.CoreCompileInputs.cache
+C:\Users\edhbu\source\repos\AnarchyGrabber3\AnarchyGrabber3\obj\Debug\yikes.Resources.resources
+C:\Users\edhbu\source\repos\AnarchyGrabber3\AnarchyGrabber3\bin\Debug\AG3.exe.config
+C:\Users\edhbu\source\repos\AnarchyGrabber3\AnarchyGrabber3\bin\Debug\AG3.exe
+C:\Users\edhbu\source\repos\AnarchyGrabber3\AnarchyGrabber3\bin\Debug\AG3.pdb
+C:\Users\edhbu\source\repos\AnarchyGrabber3\AnarchyGrabber3\obj\Debug\AG3.exe
+C:\Users\edhbu\source\repos\AnarchyGrabber3\AnarchyGrabber3\obj\Debug\AG3.pdb
